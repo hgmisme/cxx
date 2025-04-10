@@ -1,0 +1,19 @@
+{
+    "name": "ZyUniappMethodModel",
+    "id": "ZySDK",
+    "version": "1.0.0",
+    "description": "臻亿创想蓝牙连接SDK",
+    "_dp_type": "nativeplugin",
+    "_dp_nativeplugin": {
+        "ios": {
+            "plugins": [{
+                "type": "module",
+                "name": "ZySDK-ZyUniappMethodModel",
+                "class": "ZyUniappMethodModel"
+            }],
+            "frameworks": ["JL_BLEKit.framework"],
+            "integrateType": "framework",
+            "deploymentTarget": "12.0"
+        }
+    }
+}
