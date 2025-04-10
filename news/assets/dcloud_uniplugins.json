@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Zy-sdk",
+          "class": "com.antjy.sdk.ZySdkModule"
+        }
+      ]
+    }
+  ]
+}
